@@ -1,0 +1,127 @@
+# Translation of Plugins - Anonymous Restricted Content - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Anonymous Restricted Content - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-28 21:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % "
+"10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: uk\n"
+"Project-Id-Version: Plugins - Anonymous Restricted Content - Stable (latest "
+"release)\n"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-28 21:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: admin/class-arc-admin.php:332
+msgid "Restrict for Anonymous"
+msgstr "Недоступно для анонімних користувачів"
+
+#: admin/class-arc-admin.php:303
+msgid "Restr"
+msgstr "Сховано"
+
+#: admin/class-arc-admin.php:284
+msgid "Restricted %s posts (pages) from Anonymous Access."
+msgid_plural "Restricted %s posts (pages) from Anonymous Access."
+msgstr[0] "Приховано %s пост (сторінка) від анонімного доступу."
+msgstr[1] "Приховано %s пости (сторінки) від анонімного доступу."
+msgstr[2] "Приховано %s постів (сторінок) від анонімного доступу."
+
+#. Description of the plugin
+msgid ""
+"Restrict access to selected content (posts/pages/categories) for NOT LOGGED "
+"IN users. <a href=\"https://www.buymeacoffee.com/tarassych\">Wanna buy me a "
+"Coffee?</a>"
+msgstr ""
+"Приховує обраний контент (пости, сторінки, категоріі) від анонімних "
+"користувачів. <a href=\"https://www.buymeacoffee.com/tarassych\">Wanna buy "
+"me a Coffee?</a>"
+
+#: admin/class-arc-admin.php:227
+msgid ""
+"Defaul message: \"This content was restricted from anonymous access. Please, "
+"login first:\""
+msgstr ""
+"Вбудоване повідомлення: \"Доступ для анонімних користувачів - обмежено. "
+"Потрібна авторизація.\""
+
+#: admin/class-arc-admin.php:226
+msgid ""
+"Message to be shown on the login screen, for users who trying to access "
+"restricted content and forced to login."
+msgstr ""
+"Попередження для неавторизованих користувачів, які намагаються отримати "
+"доступ до прихованого контенту. Буде показано на сторінці логіну / "
+"авторизації."
+
+#: admin/class-arc-admin.php:170
+msgid "Login screen message:"
+msgstr "Текст попередження:"
+
+#: admin/class-arc-admin.php:163
+msgid "Login Screen:"
+msgstr "При Авторизації:"
+
+#: admin/class-arc-admin.php:109
+msgid "Restricted for anonymouse users"
+msgstr "Доступ без авторизації обмежено"
+
+#: public/class-arc-public.php:251
+msgid "This content was restricted from anonymous access. Please, login first:"
+msgstr "Доступ для анонімних користувачів - обмежено. Потрібна авторизація."
+
+#: admin/class-arc-admin.php:359
+msgid "Settings"
+msgstr "Конфігурація"
+
+#: admin/class-arc-admin.php:239
+msgid "Restricted Content"
+msgstr "Обмеження Доступу"
+
+#: admin/class-arc-admin.php:216
+msgid ""
+"Leave Redirect URL empty to force anonymous users to login (redirect to "
+"Wordpress Login page)."
+msgstr ""
+"Залиште Redirect URL пустим для переадресації неавторизованих користувачів "
+"на сторінку Login"
+
+#: admin/class-arc-admin.php:215
+msgid ""
+"Anonymous users, who are restricted to access content, can be redirected to "
+"the URL you provide below."
+msgstr ""
+"Анонімні користувачі, яким обмежено доступ, будуть перенаправлені на URL "
+"вказаний нижче, якщо цей URL задано."
+
+#: admin/class-arc-admin.php:151
+msgid "Redirect URL:"
+msgstr "URL перенаправлення:"
+
+#: admin/class-arc-admin.php:144
+msgid "Redirect Options"
+msgstr "Перенаправлення"
+
+#. Author URI of the plugin
+msgid "https://wordpress.org/plugins/anonymous-restricted-content//"
+msgstr "https://wordpress.org/plugins/anonymous-restricted-content//"
+
+#. Author of the plugin
+msgid "Taras Sych"
+msgstr "Taras Sych"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/anonymous-restricted-content/"
+msgstr "https://wordpress.org/plugins/anonymous-restricted-content/"
+
+#. Plugin Name of the plugin
+#: admin/class-arc-admin.php:238
+msgid "Anonymous Restricted Content"
+msgstr "Anonymous Restricted Content"

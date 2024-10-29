@@ -1,0 +1,153 @@
+# Copyright (C) 2021 Taras Sych
+# This file is distributed under the same license as the Anonymous Restricted Content plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Anonymous Restricted Content 1.5.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/anonymous-restricted-content\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-11T19:58:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: anonymous-restricted-content\n"
+
+#. Plugin Name of the plugin
+#: admin/class-arc-admin.php:309
+msgid "Anonymous Restricted Content"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/anonymous-restricted-content/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Restrict access to selected content (posts/pages/categories) for NOT LOGGED IN users."
+msgstr ""
+
+#. Author of the plugin
+msgid "Taras Sych"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wordpress.org/plugins/anonymous-restricted-content//"
+msgstr ""
+
+#: admin/class-arc-admin.php:104
+msgid "Restricted for anonymous users"
+msgstr ""
+
+#: admin/class-arc-admin.php:121
+msgid "Restricted for anonymouse users"
+msgstr ""
+
+#: admin/class-arc-admin.php:156
+msgid "Redirect Options"
+msgstr ""
+
+#: admin/class-arc-admin.php:163
+msgid "Redirect URL:"
+msgstr ""
+
+#: admin/class-arc-admin.php:175
+msgid "Login Screen:"
+msgstr ""
+
+#: admin/class-arc-admin.php:182
+msgid "Login screen message:"
+msgstr ""
+
+#: admin/class-arc-admin.php:194
+msgid "AJAX Alternative:"
+msgstr ""
+
+#: admin/class-arc-admin.php:201
+msgid "AJAX Login:"
+msgstr ""
+
+#: admin/class-arc-admin.php:274
+msgid "Anonymous users, who are restricted to access content, can be redirected to the URL you provide below."
+msgstr ""
+
+#: admin/class-arc-admin.php:275
+msgid "Leave Redirect URL empty to force anonymous users to login (redirect to Wordpress Login page)."
+msgstr ""
+
+#: admin/class-arc-admin.php:285
+msgid "Message to be shown on the login screen, for users who trying to access restricted content and forced to login."
+msgstr ""
+
+#: admin/class-arc-admin.php:286
+msgid "Defaul message: \"This content was restricted from anonymous access. Please, login first:\""
+msgstr ""
+
+#: admin/class-arc-admin.php:296
+msgid "Turn ON this option to prevent users redirects to the WP login page."
+msgstr ""
+
+#: admin/class-arc-admin.php:297
+msgid "And use AJAX login form in floating popup instead."
+msgstr ""
+
+#: admin/class-arc-admin.php:298
+msgid "This feature should prevent issues with \"loop login screen redirects\" in case of other plugin integration conflicts."
+msgstr ""
+
+#: admin/class-arc-admin.php:310
+#: public/class-arc-public.php:85
+msgid "Restricted Content"
+msgstr ""
+
+#: admin/class-arc-admin.php:374
+msgid "Restr"
+msgstr ""
+
+#: admin/class-arc-admin.php:403
+msgid "Restrict for Anonymous"
+msgstr ""
+
+#: admin/class-arc-admin.php:430
+msgid "Settings"
+msgstr ""
+
+#: public/class-arc-public.php:83
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: public/class-arc-public.php:84
+msgid "Log In failed. Try again later."
+msgstr ""
+
+#: public/class-arc-public.php:86
+msgid "Please log in to get access:"
+msgstr ""
+
+#: public/class-arc-public.php:87
+msgid "Username:"
+msgstr ""
+
+#: public/class-arc-public.php:88
+msgid "Password:"
+msgstr ""
+
+#: public/class-arc-public.php:89
+msgid "Log In"
+msgstr ""
+
+#: public/class-arc-public.php:90
+msgid "Go Back"
+msgstr ""
+
+#: public/class-arc-public.php:304
+msgid "Login successful."
+msgstr ""
+
+#: public/class-arc-public.php:306
+msgid "Login failed."
+msgstr ""
+
+#: public/class-arc-public.php:331
+msgid "This content was restricted from anonymous access. Please, login first:"
+msgstr ""

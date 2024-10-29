@@ -1,0 +1,19 @@
+.arc-content-blur>*:not(.arc-ajax-login-container) {
+  filter: blur(15px);
+}
+
+.arc-ajax-login-container {
+  background: #fff;
+  padding: 1em;
+  min-width: 15em;
+  min-height: 10em;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999999;
+}
+
+.arc-ajax-login-container form input {width: 100%; min-width: 20em;}
+.arc-ajax-login-container form label {line-height: 2em;}
+.arc-ajax-login-container form p {padding: 0.5em 0; font-size: 1em; }
